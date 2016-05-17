@@ -5,5 +5,5 @@
 
 
 Package attribute considerations:
-  Use a reverse domain name for the package structure.
-  Use lowercase  characters delimited with underscores to separate words in package names
+ -Use a reverse domain name for the package structure.
+ -Use lowercase  characters delimited with underscores to separate words in package names
